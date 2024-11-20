@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "E. Rupp",
+    "section": "",
+    "text": "A little bit about me and my life."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "E. Rupp",
+    "section": "Education",
+    "text": "Education\nBaylor University | Waco, TX | August 2022 - May 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "E. Rupp",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  }
+]
